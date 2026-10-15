@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you refer to this software, please cite it as below."
+type: software
+title: "Visualizza: read-only viewer of the customer complaints and their analyses (2000–2001)"
+version: "1.0.0"
+abstract: "Visualizza is the read-only companion of the complaint-management application Reclami. It lets managers and offices that must not modify the data browse the complaints in a tree view by status, open the technical and commercial analyses of each complaint and the related order data from the ERP, search the complaints, and display the quality index and the defect charts."
+authors:
+  - family-names: Sbarbaro
+    given-names: Massimo
+    orcid: "https://orcid.org/0009-0006-8965-9013"
+license: MIT
+date-released: "2001-03-22"
+repository-code: "https://github.com/massimosbarbaro/complaints-viewer"
+keywords:
+  - "Visual Basic 6"
+  - "quality management"
+  - "customer complaints"
+  - "reporting"
+  - "legacy software"
