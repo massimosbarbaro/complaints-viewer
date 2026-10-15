@@ -16,7 +16,7 @@ I designed and programmed this application in 2000–2001. It is published here 
 - Tree view of the complaints by status (`frmTV`).
 - Read-only technical and commercial analysis and ERP order data (`frmATC`, `frmMKG`, `frmMFG`).
 - Search of the complaints (`frmRicerca`).
-- Quality index and charts produced through Microsoft Access automation (`frmIQ`, `frmGrafici`).
+- Quality index and charts produced through db automation (`frmIQ`, `frmGrafici`).
 
 ## Data
 
@@ -24,7 +24,7 @@ The central complaints database (`reclami.mdb`), opened read-only through DAO 3.
 
 ## Technology
 
-DAO 3.51, Microsoft Access 8.0 object library, Common Controls, Masked Edit, Crystal Reports.
+DAO 3.51, db 8.0 object library, Common Controls, Masked Edit, Crystal Reports.
 
 ## Repository contents
 
@@ -39,7 +39,7 @@ Only the source files listed in the project are published. The compiled executab
 ## Related repositories
 
 - [quality-complaints-manager](https://github.com/massimosbarbaro/quality-complaints-manager)
-- [customer-complaints-statistics-access](https://github.com/massimosbarbaro/customer-complaints-statistics-access)
+- [customer-complaints-statistics-db](https://github.com/massimosbarbaro/customer-complaints-statistics-db)
 
 ## How to cite
 
