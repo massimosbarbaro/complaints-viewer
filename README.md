@@ -1,5 +1,7 @@
 # Visualizza: read-only viewer of the customer complaints and their analyses
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23398877.svg)](https://doi.org/10.5281/zenodo.23398877)
+
 *Consultazione dei reclami e delle loro analisi tecniche e commerciali*
 
 2000–2001 · version 1.0.0  
@@ -43,9 +45,9 @@ Only the source files listed in the project are published. The compiled executab
 
 ## How to cite
 
-Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*).
+Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). The release is archived on Zenodo with the DOI [10.5281/zenodo.23398877](https://doi.org/10.5281/zenodo.23398877).
 
-> Sbarbaro, Massimo. 2001. *Visualizza: read-only viewer of the customer complaints and their analyses*. Software (2000–2001), version 1.0.0. GitHub. https://github.com/massimosbarbaro/complaints-viewer.
+> Sbarbaro, Massimo. 2001. *Visualizza: read-only viewer of the customer complaints and their analyses*. Software (2000–2001), version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.23398877.
 
 ## License
 
